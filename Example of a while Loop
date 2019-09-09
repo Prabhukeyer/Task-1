@@ -1,0 +1,12 @@
+public class loopy {
+  public static void main (String[] args) {
+    int x=5;
+    system.out.println("Before the loop");
+    while (x < 3) {
+      system.out.println("In the loop");
+      system.out.println("Value of x is" + x);
+        x=x=5;
+    }
+    system.out.println("After the loop");
+}
+}
