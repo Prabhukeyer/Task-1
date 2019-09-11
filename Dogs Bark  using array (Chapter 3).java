@@ -28,6 +28,4 @@ public class Dog {
     public void bark () {
         System.out.println(name + " says RAFF!");
     }
-    public void eat() { }
-    public void chaseCat() { }
 }
